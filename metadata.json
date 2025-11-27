@@ -1,0 +1,7 @@
+{
+  "name": "Versão 1.0 Assistente de Limpeza - Escolhendo a Ferramenta",
+  "description": "Aplicativo de auxílio profissional para escolha de ferramentas de limpeza El Castor e Unger utilizando IA.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
